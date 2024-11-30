@@ -26,8 +26,8 @@ como (USD "Dolar estado unidense" A CLP "Peso chileno" O CLP A PEN "Sol peruano"
 
   - Una vez ingresado el monto y presionado enter , se mostra el resultado mostrando la cantidad cambiada y el tipo de cambio
     a su vez tendra 2 opciones
-    -  1. para continuar le enviara al menu principal o
-    - 2. para salir del conversor
+    -  1.para continuar le enviara al menu principal o
+    -  2.para salir del conversor
     
   ![2024-11-30 (3)](https://github.com/user-attachments/assets/c87ecb86-82d2-45cc-9c51-6603d69eefb7)
 
