@@ -32,6 +32,9 @@ como (USD "Dolar estado unidense" A CLP "Peso chileno" O CLP A PEN "Sol peruano"
   ![2024-11-30 (3)](https://github.com/user-attachments/assets/c87ecb86-82d2-45cc-9c51-6603d69eefb7)
 
   # Autor
-  Creado por JOSE ULACIO CUICA
+  Creado por [Jose Ulacio](https://www.linkedin.com/in/jose-ulacio-474725217/)
+
+  # Agradecimiento
+  - A: [Alura Latam](aluracursos.com) , por brindar el conocimiento necesario para poder relizar este proyecto
 
 
