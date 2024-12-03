@@ -1,0 +1,29 @@
+{
+  "monedaBase": "(USD)",
+  "monedatarget": "CLP",
+  "tipoDeCambio": 978.4914,
+  "monto": 100.0,
+  "total": 97849.14,
+  "fecha": "30-11-2024_11:40:39"
+}{
+  "monedaBase": "(CLP)",
+  "monedatarget": "PEN",
+  "tipoDeCambio": 0.003839,
+  "monto": 100000.0,
+  "total": 383.9,
+  "fecha": "30-11-2024 11:42:39"
+}{
+  "monedaBase": "(CLP)",
+  "monedatarget": "BRL",
+  "tipoDeCambio": 0.006132,
+  "monto": 100000.0,
+  "total": 613.2,
+  "fecha": "30-11-2024 11:49:31"
+}{
+  "monedaBase": "(USD)",
+  "monedatarget": "CLP",
+  "tipoDeCambio": 978.4914,
+  "monto": 200.0,
+  "total": 195698.28,
+  "fecha": "30-11-2024 13:18:43"
+}
